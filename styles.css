@@ -17,7 +17,7 @@
     min-height: 100vh;
     display: grid;
     place-content: center;
-    
+    background-color: var(--Grayish-blue);
     transition-duration: 0.6s;
     animation-name: fadein;
     animation-duration: 1.5s;
