@@ -92,6 +92,7 @@
     bottom: 0;
     transform: translate(5.5rem, -50%);
     transition-duration: 1.5s;
+      display: none;
   }
 
   .attributions a {
